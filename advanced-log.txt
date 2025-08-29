@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script to log directory structure
+echo "Directory listing created on $(date)" > directory_log.txt
+tree >> directory_log.txt
+echo "Wrote directory_log.txt"

@@ -1,0 +1,10 @@
+Directory listing created on Thu Aug 28 20:39:24 UTC 2025
+.
+├── README.md
+├── advanced-log.txt
+├── bashrc
+├── directory_log.txt
+└── shell-scripts
+    └── easy-script.sh
+
+2 directories, 5 files
